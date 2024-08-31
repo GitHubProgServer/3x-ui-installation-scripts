@@ -7,7 +7,7 @@ Command for installation of 3x-UI:
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 
-Source of addint SSL keys script: https://github.com/cyb3rm4gus/3x-ui-auto_add_ssl
+Source of adding of SSL keys script: https://github.com/cyb3rm4gus/3x-ui-auto_add_ssl
 
 bash <(curl -Ls https://github.com/GitHubProgServer/3x-ui-auto_add_ssl/raw/main/3x-ui-autossl.sh)
 
